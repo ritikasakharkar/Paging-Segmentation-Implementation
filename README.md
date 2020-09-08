@@ -1,4 +1,4 @@
-# Paging-Segmentation-Implementation
+# Paging-Segmentation-Implementation 
 
 - Paging and segmentation both are the memory management schemes. 
 
